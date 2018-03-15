@@ -1,4 +1,4 @@
-# Informaion-Retrieval-System-for-moviedata
+# Informaion-Retrieval-System-for-Movie-Data
 
 Description on how to run the program:
 --------------------------------------
