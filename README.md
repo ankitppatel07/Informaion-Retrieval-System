@@ -2,13 +2,13 @@
 Description on how to run the program:
 
 Command for compiling the java program: 
-javac -cp commons-lang3-3.7.jar assignmentP3.java
+javac -cp commons-lang3-3.7.jar IRProject.java
 
 Command for running the java program on Windows: 
-java -cp .;commons-lang3-3.7.jar assignmentP3 Reviews Dictionary.csv Postings.csv DocsTable.csv Output.txt
+java -cp .;commons-lang3-3.7.jar IRProject Reviews Dictionary.csv Postings.csv DocsTable.csv Output.txt
 
 Command for running the java program on Ubuntu: 
-java -cp .:"commons-lang3-3.7.jar" assignmentP3 Reviews Dictionary.csv Postings.csv DocsTable.csv Output.txt
+java -cp .:"commons-lang3-3.7.jar" IRProject Reviews Dictionary.csv Postings.csv DocsTable.csv Output.txt
 
 
 A short description of library used:
