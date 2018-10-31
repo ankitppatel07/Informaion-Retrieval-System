@@ -1,4 +1,10 @@
-# Informaion-Retrieval-System-for-Movie-Data
+# Information-Retrieval-System-for-Movie-Data
+
+About the Information Retrieval System:
+--------------------------------------
+- Implemented a program that reads a document and outputs all the index terms that occur in it in lexicographic order.
+- Implemented a program that indexed 130 movie reviews (.html files) and generated the document table and dictionary.
+- Implemented a program that processes the input query supplied by the user and retrieves a list of documents.
 
 Description on how to run the program:
 --------------------------------------
