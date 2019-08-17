@@ -1,12 +1,14 @@
 # Information-Retrieval-System-for-Movie-Data
 
-About the Information Retrieval System:
+Description:
 --------------------------------------
 - Implemented a program that reads a document and outputs all the index terms that occur in it in lexicographic order.
 - Implemented a program that indexed 130 movie reviews (.html files) and generated the document table and dictionary.
 - Implemented a program that processes the input query supplied by the user and retrieves a list of documents.
 
-Description on how to run the program:
+## Tech Stack: Java, Apache Commons Lang, Eclipse IDE, Command Line. 
+
+Instructions on how to run the program:
 --------------------------------------
 Download the .jar library and the java program. In order to test the retrieval system, you can download and use the sample movie reviews provided or you can use a file of your own. After entering the below commands to compile and run the program and then entering queries to test, the program will generate 4 files. They are:
 1. Dictionary.csv = contains the term, document frequency and offset.
